@@ -99,7 +99,7 @@ export function Footer() {
 
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground flex items-center gap-2">
-            2025 8BIT. صُنع بـ <Heart className="w-4 h-4 text-red-500 fill-red-500" /> في السعودية
+            2025 8BIT.  <Heart className="w-4 h-4 text-red-500 fill-red-500" />
           </p>
           <div className="flex gap-6">
             <Link href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm">
